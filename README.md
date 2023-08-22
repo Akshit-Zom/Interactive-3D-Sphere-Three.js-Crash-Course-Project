@@ -29,11 +29,6 @@ This project embodies my passion for continuous learning and growth. Starting wi
 4. Launch the development server using `npm run dev`.
 5. Open your browser and visit `http://localhost:3000` to interact with the 3D sphere.
 
-## Project Preview
-
-Visit the live project: [Interactive 3D Sphere](https://akshit-zom.github.io/Interactive-3D-Sphere-Three.js-Crash-Course-Project/)
-
-
 ---
 
 Feel free to connect, contribute, and explore the project. I hope you enjoy the interactive 3D sphere experience as much as I enjoyed creating it!
